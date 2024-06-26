@@ -74,19 +74,9 @@
 
 
 
-### 自定义cdn加速
-> 默认是使用cloudflare ,修改 `asset/js/upload.js#L219` 即可
+### Star History
 
-+ 如用cachefly加速 
-
-cachefly绑定cloudflare pages
-<img src="https://img.131213.xyz/file/c19f7ea17ce2027b13dfa.png" />
-
-修改代码
-
-```diff
-- const PROXYURL = ""  //自定义加速域名 默认是使用cloudflare
-+ const PROXYURL = "https://xxxxxxxxxx.cachefly.net"  //自定义加速域名 默认是使用cloudflare
+[![Star History Chart](https://api.star-history.com/svg?repos=x-dr/telegraph-Image&type=Date)](https://star-history.com/#x-dr/telegraph-Image&Date)
 ```
 
 
