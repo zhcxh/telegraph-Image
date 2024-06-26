@@ -1,7 +1,14 @@
 # telegraph-Image
 
 
-### [Demo](https://img.131213.xyz/)
+### Demo
+[https://img.131213.xyz](https://img.131213.xyz/)
+
+### 测试
+[https://testimg.131213.xyz/](https://testimg.131213.xyz/)
+> 测试账号：admin
+
+> 测试密码：admin
 
 ### 开发计划
 - [x] 后台管理
