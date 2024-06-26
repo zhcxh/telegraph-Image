@@ -130,10 +130,12 @@ dist
 .pnp.*
 
 
-test*
+# test*
 
-wrangler.toml
-
-
+# wrangler.toml
+# *.sql
+# ss
+# git.sh
 .wrangler
-*wrangler*
+# *wrangler*
+wrangler.toml
