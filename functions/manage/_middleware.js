@@ -68,8 +68,8 @@ function BadRequestException(reason) {
 
 
 function authentication(context) {
-  // context.env.BASIC_USER="admin"
-  // context.env.BASIC_PASS="admin"
+  context.env.BASIC_USER="admin"
+  context.env.BASIC_PASS="admin"
   //check if the env variables Disable_Dashboard are set
   if (typeof context.env.IMG == "undefined" || context.env.IMG == null || context.env.IMG == "") {
     return Response.json({

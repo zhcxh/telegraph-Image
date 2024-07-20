@@ -10,6 +10,16 @@
 
 > 测试密码：admin
 
+
+
+### 新版本dev分支
+
+[https://telegraph-image-e49.pages.dev/](https://telegraph-image-e49.pages.dev/)
+> 测试账号：admin
+
+> 测试密码：admin
+
+
 ### 开发计划
 - [x] 后台管理
 - [x] 鉴黄
